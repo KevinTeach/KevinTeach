@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - My Skill Of Web
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=KevinTeach)](https://medium.com/@omidnikrah)
+[![laravel.com]!]
 -- i design web using Bootstrap and Fontawesome
