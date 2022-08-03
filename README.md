@@ -9,5 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - My Skill Of Web
-[![laravel.com]!]
+.. 
+![Laravel](https://id.m.wikipedia.org/wiki/Berkas:Laravel.svg)
 -- i design web using Bootstrap and Fontawesome
