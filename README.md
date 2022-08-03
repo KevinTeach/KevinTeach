@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 
 - My Skill Of Web
 .. 
-![Laravel](https://id.m.wikipedia.org/wiki/Berkas:Laravel.svg)
+![Laravel](https://www.pngdownload.id/png-sluqtd/download.html)
 -- i design web using Bootstrap and Fontawesome
