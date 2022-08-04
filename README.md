@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 .. Bootstrap
 
 
-Click Here For Joined Education Code... 
+Click Here For Joined Education Code... https://github.com/SMKN-1-Kayan-Hilir-KevinTeach
