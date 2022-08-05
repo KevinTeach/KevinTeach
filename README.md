@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 .. Laravel
 .. Html
 .. C++
-.. Aws EC2 Cloud Computing
+.. Aws EC2 Cloud
 .. Git Controller
 .. MVC [Model View and Controller] basic
 
